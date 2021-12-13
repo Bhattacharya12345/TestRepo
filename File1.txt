@@ -2,3 +2,4 @@ Hello World!
 change1 : making changes in file 1
 change2: making chage in file1
 change3: changing content again
+change for bug1 fix
