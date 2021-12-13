@@ -1,2 +1,3 @@
-Creating file 2 with log in credentials
+1. Creating file 2 with log in credentials
+2. Hello there! i am in Idea branch
 3. now i am in master
